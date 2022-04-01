@@ -2,6 +2,10 @@
 	background-color: #f1fefe;
 }
 
+.divider {
+	height: 3px;
+}
+
 @media only screen and (max-width: 800px) {
 	.signup {
 		display: none;

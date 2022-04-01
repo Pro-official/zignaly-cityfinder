@@ -27,7 +27,7 @@ const Navigation = () => {
 					</a>
 				</div>
 			</nav>
-			<hr className='container border border-3' />
+			<hr className='container divider border border-3' />
 		</div>
 	);
 };

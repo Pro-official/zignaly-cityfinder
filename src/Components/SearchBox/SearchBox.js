@@ -1,10 +1,10 @@
 import React from "react";
 import "./searchbox.css";
-import Input from "../Inputs";
+import Inputs from "../Inputs";
 import List from "../List/List";
 
 const SearchBox = () => {
-	const address = Input("");
+	const address = Inputs("");
 
 	return (
 		<>
