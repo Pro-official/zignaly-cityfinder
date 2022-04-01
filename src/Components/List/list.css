@@ -1,0 +1,9 @@
+.list {
+	width: 30%;
+	color: black;
+	margin-left: 235px;
+	border: 2px solid black;
+	border-radius: 20px;
+	font-size: 20px;
+	background-color: white;
+}

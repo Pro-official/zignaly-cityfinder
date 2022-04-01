@@ -1,13 +1,13 @@
 import "./App.css";
-import Header from "./Components/Header/Header";
 import Navigation from "./Components/Navigation/Navigation";
 import "bootstrap/dist/css/bootstrap.min.css";
+import SearchBox from "./Components/SearchBox/SearchBox";
 
 function App() {
 	return (
 		<div className='app'>
 			<Navigation />
-			<Header />
+			<SearchBox />
 		</div>
 	);
 }
